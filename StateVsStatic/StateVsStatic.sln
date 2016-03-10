@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateVsStatic", "WebApplication2\StateVsStatic.csproj", "{569A154C-B34D-4A29-9924-9E1560641152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569A154C-B34D-4A29-9924-9E1560641152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569A154C-B34D-4A29-9924-9E1560641152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569A154C-B34D-4A29-9924-9E1560641152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569A154C-B34D-4A29-9924-9E1560641152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
